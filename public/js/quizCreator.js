@@ -100,6 +100,10 @@ function cancelQuiz(){
     }
 }
 
+socket.on('returnToGameSelection', function(){
+    window.location.href = "../";
+});
+
 socket.on('startGameFromCreator', function(data){
     window.location.href = "../../host/?id=" + data;
 });
