@@ -1,8 +1,8 @@
 # kahoot-clone-nodejs
 <h3>INSTRUCTIONS:</h3>
 <ol>
-  <li>Make sure all node modules have been installed listed in package.json: express, moment, lowdb, socket.io</li>
-  <li>Start Server: nodejs server/server.js</li>
+  <li>Make sure you have node installed</li>
+  <li>Start Server with "node server/server.js" (or, in windows 10 execute click-to-run-on-win10.bat)</li>
 </ol>
 <br>
 <h3>Description</h3>
